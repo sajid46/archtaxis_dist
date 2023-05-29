@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'thearch360'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D38F6765E58F48098F24B2954327347B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D2B1A95DFB2F4E2AB3B988495B447063 }}
           package: .
